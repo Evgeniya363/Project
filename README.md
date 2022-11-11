@@ -1,2 +1,3 @@
 # Project
-Lessons 8 &amp; 9
+Init repo
+1. Clone to local repo
